@@ -1,0 +1,120 @@
+Location,Class Name,Class Type,First Class Time,No dog first class,Skip Day,misc
+Poland,Puppy A.K.C. S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS,,,,Sunday 3/26/23 at 2:30 PM with Jenny Falvey
+Poland,Puppy A.K.C. S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS,,,,Monday 4/3/23 at 5:45 PM with Jenny Falvey
+Poland,Puppy A.K.C. S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS,,,,Monday 4/24/23 at 5:45 PM with Sam Ragan
+Poland,Puppy A.K.C. S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS,,,,Wednesday 4/26/23 at 7:00 PM with Jenny Falvey
+Poland,Puppy A.K.C. S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS,,,,Sunday 5/14/23 at 2:30 PM with Jenny Falvey
+Poland,Puppy A.K.C. S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS,,,,Monday 5/15/23 at 5:45 PM with Jenny Falvey 
+Poland,Beginner Obedience - $139,OBEDIENCE & MANNERS,,,,Tuesday 3/28/23 at 9:30 AM with Karen Becker
+Poland,Beginner Obedience - $139,OBEDIENCE & MANNERS,,,,Wednesday 4/12/23 at 5:45 PM with Jenny Falvey
+Poland,Beginner Obedience - $139,OBEDIENCE & MANNERS,,,,Sunday 4/16/23 at 10:45 AM with Amber Nemergut
+Poland,Beginner Obedience - $139,OBEDIENCE & MANNERS,,,,Sunday 4/16/23 at 12 PM with Dee Franke
+Poland,Beginner Obedience - $139,OBEDIENCE & MANNERS,,,,Saturday 4/22/23 at 9 AM with Heather Constiner
+Poland,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,OBEDIENCE & MANNERS,,,,Thursday 3/23/23 at 5:45 PM with Sam Ragan
+Poland,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,OBEDIENCE & MANNERS,,,,Wednesday 4/5/23 at 5:45 PM with Amber Nemergut
+Poland,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,OBEDIENCE & MANNERS,,,,Thursday 4/6/23 at 9:30 AM with Dee Franke
+Poland,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,OBEDIENCE & MANNERS,,,,Sunday 4/23/23 at 10:45 AM with Dee Franke
+Poland,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,OBEDIENCE & MANNERS,,,,Tuesday 4/25/23 at 7:00 PM with Dee Franke
+Poland,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,OBEDIENCE & MANNERS,,,,Tuesday 5/2/23 at 5:45 PM with Amber Nemergut
+Poland,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,OBEDIENCE & MANNERS,,,,Tuesday 6/6/23 at 9:30 AM with Karen Becker
+Poland,Get Control! - $150​​​​​​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR,,,,Saturday 4/8/23 at 11:30 AM with Heather Constiner
+Poland,Get Control! - $150​​​​​​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR,,,,Tuesday 4/18/23 at 5:45 PM with Dee Franke
+Poland,Get Control! - $150​​​​​​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR,,,,Saturday 4/29/23 at 10:15 AM with Heather Constiner
+Poland,Get Control! - $150​​​​​​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR,,,,Thursday 5/4/23 at 10:45 AM with Dee Franke
+Poland,Get Control! - $150​​​​​​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR,,,,Tuesday 6/6/23 at 5:45 PM with Dee Franke
+Poland,Fearful and Shy Dog Level 1 - Fear of People - $190​​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR,First class is 9:30am-11:30am; no dogs​,,,Wednesday 4/19/23 at 9:30 AM with Amber Nemergut
+Poland,Fearful and Shy Dog Level 1 - Fear of People - $190​​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR,First class is 9:30am-11:30am; no dogs​,,Skip day 5/28​,Sunday 4/23/23 at 9:30 AM with Amber Nemergut
+Poland,Fearful and Shy Dog Level 1 - Fear of People - $190​​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR,First class is 4pm-6pm; no dogs​,,,Sunday 4/30/23 at 4:00 PM with Jenny Falvey
+Poland,Fearful and Shy Dog Level 1 - Fear of People - $190​​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR,First class is 9:30am-11:30am; no dogs​,,,Wednesday 5/31/23 at 9:30 AM with Amber Nemergut
+Poland,Fearful and Shy Dog Level 1 - Fear of People - $190​​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR,First class is 4pm-6pm; no dogs​,,,Sunday 6/11/23 at 4:00 PM with Jenny Falvey
+Poland,Small Dog Tricks and Enrichment - $110​​,FUN CLASSES,,,,Thursday 4/20/23 at 10:45 AM with Dee Franke
+Poland,Intro to Tricks - $139​​​​,FUN CLASSES,,,Skip day 5/28​,Sunday 4/23/23 at 2:30 PM with Dee Franke
+Poland,Polite Greetings - $20,MINI CLASSES,,,,Sunday 4/16/23 at 2:30 PM with Amber Nemergut
+Poland,Puppy Power Hour - $20​​​,MINI CLASSES,,,,Monday 3/27/23 at 5:45 PM with Sam Ragan
+Poland,Puppy Power Hour - $20​​​,MINI CLASSES,,,,Monday 4/3/23 at 5:45 PM with Sam Ragan
+Poland,Puppy Power Hour - $20​​​,MINI CLASSES,,,,Monday 4/10/23 at 5:45 PM with Sam Ragan
+Poland,Puppy Power Hour - $20​​​,MINI CLASSES,,,,Monday 4/17/23 at 5:45 PM with Sam Ragan
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,Saturday 4/8/23 at 2:45 PM with Heather Constiner
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,skip days 5/27 & 7/1​,Saturday 5/20/23 at 2:45 PM with Heather Constiner
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,Saturday 7/15/23 at 3:45 PM with Heather Constiner
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,Saturday 8/26/23 at 2:45 PM with Heather Constiner
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,Saturday 10/7/23 at 2:45 PM with Heather Constiner
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,
+Warren,Puppy Class - AKC S.T.A.R. - $99​​​​​​​​​​​​​​​​​​​​,A.K.C. PUPPY S.T.A.R. PUPPY CLASS ,,,,Saturday 11/18/23 at 2:45 PM with Heather Constiner
+Warren,Beginner Obedience-Level 1 - $139,OBEDIENCE & MANNERS,First class is 7pm-9pm; no dogs​​,,,Wednesday 4/5/23 at 7:00 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $140,OBEDIENCE & MANNERS,First class is 7:30pm-9:30pm; no dogs​,,,Friday 4/7/23 at 7:30 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $141,OBEDIENCE & MANNERS,First class is 1:15pm-3:15pm; no dogs​​,,,Sunday 4/16/23 at 1:15 PM with Heather Huff
+Warren,Beginner Obedience-Level 1 - $142,OBEDIENCE & MANNERS,First class is 7pm-9pm; no dogs​​,,,Monday 4/17/23 at 7:00 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $143,OBEDIENCE & MANNERS,First class is 5:45pm-7:45pm; no dogs​,,,Wednesday 4/26/23 at 5:45 PM with Heather Huff
+Warren,Beginner Obedience-Level 1 - $144,OBEDIENCE & MANNERS,First class is 10:45am-12:45pm; no dogs​,,,Friday 5/5/23 at 10:45 AM with Heather Constiner 
+Warren,Beginner Obedience-Level 1 - $145,OBEDIENCE & MANNERS,First class is 12pm-2pm; no dogs​,,Skip days 5/14 & 5/28​,Sunday 5/7/23 at 12:00 PM with Heather Huff
+Warren,Beginner Obedience-Level 1 - $146,OBEDIENCE & MANNERS,First class is 7pm-9pm; no dogs​,,,Wednesday 5/17/23 at 7 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $147,OBEDIENCE & MANNERS,First class is 7:30pm-9:30pm; no dogs​,,,Friday 5/19/23 at 7:30 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $148,OBEDIENCE & MANNERS,First class is 7:00pm-9:00pm; no dogs​​,,Skip day 7/3 ​,Wednesday 6/5/23 at 7:00 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $149,OBEDIENCE & MANNERS,First class is 5:45pm-7:45pm; no dogs​,,Skip day 7/5​,Wednesday 6/7/23 at 5:45 PM with Heather Huff
+Warren,Beginner Obedience-Level 1 - $150,OBEDIENCE & MANNERS,First class is 1:15pm-3:15pm; no dogs​,,Skip days 7/2 & 7/9​,Sunday 6/11/23 at 1:15 PM with Heather Huff
+Warren,Beginner Obedience-Level 1 - $151,OBEDIENCE & MANNERS,First class is 7pm-9pm; no dogs​,,,Wednesday 6/28/23 at 7 PM with April Courtney​​
+Warren,Beginner Obedience-Level 1 - $152,OBEDIENCE & MANNERS,First class is 7:30pm-9:30pm; no dogs​,,,Friday 7/7/23 at 7:30 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $153,OBEDIENCE & MANNERS,First class is 12pm-2pm; no dogs​,,,Sunday 7/16/23 at 12:00 PM with Heather Huff
+Warren,Beginner Obedience-Level 1 - $154,OBEDIENCE & MANNERS,First class is 7pm-9pm; no dogs​,,,Monday 7/24/23 at 7 PM with April Courtney​​
+Warren,Beginner Obedience-Level 1 - $155,OBEDIENCE & MANNERS,First class is 1:15pm-3:15pm; no dogs​,,Skip day 9/3​,Sunday 8/6/23 at 1:15 PM with Heather Huff
+Warren,Beginner Obedience-Level 1 - $156,OBEDIENCE & MANNERS,First class is 7pm-9pm; no dogs​,,,Wednesday 8/9/23 at 7 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $157,OBEDIENCE & MANNERS,First class is 7:30pm-9:30pm; no dogs​,,,Friday 8/18/23 at 7:30 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $158,OBEDIENCE & MANNERS,First class is 12:00pm-2:00pm; no dogs​,,Skip day 9/3​,Sunday 8/27/23 at 12:00 PM with Heather Huff
+Warren,Beginner Obedience-Level 1 - $159,OBEDIENCE & MANNERS,First class is 7pm-9pm; no dogs​,,,Monday 9/11/23 at 7 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $160,OBEDIENCE & MANNERS,First class is 7pm-9pm; no dogs​,,,Wednesday 9/20/23 at 7 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $161,OBEDIENCE & MANNERS,First class is 7:30pm-9:30pm; no dogs​,,,Friday 9/29/23 at 7:30 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $162,OBEDIENCE & MANNERS,First class is 7pm-9pm; no dogs​,,,Monday 10/23/23 at 7 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $163,OBEDIENCE & MANNERS,First class is 7pm-9pm; no dogs​,,,Wednesday 11/1/23 at 7 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $164,OBEDIENCE & MANNERS,First class is 7:30pm-9:30pm; no dogs​,,,Friday 11/10/23 at 7:30 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $165,OBEDIENCE & MANNERS,First class is 7pm-9pm; no dogs​,,Skip days 12/25 & 1/1,Monday 12/4/23 at 7 PM with April Courtney
+Warren,Beginner Obedience-Level 1 - $166,OBEDIENCE & MANNERS,First class is 7pm-9pm; no dogs​,,,Wednesday 12/13/23 at 7 PM with April Courtney
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,,Friday 3/31/23 at 6:15 PM with April Courtney
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,,Wednesday 4/5/23 at 7:00 PM with Heather Huff
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,,Monday 4/10/23 at 5:45 PM with April Courtney
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,,Wednesday 4/26/23 at 5:45 PM with April Courtney
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,,Friday 5/12/23 at 12:00 PM with Heather Constiner 
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,Skip day 5/26,Friday 5/12/23 at 6:15 PM with April Courtney
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,,Wednesday 6/7/23 at 5:45 PM with April Courtney
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,,Friday 6/30/23 at 6:15 PM with April Courtney
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,,Wednesday 7/19/23 at 5:45 PM with April Courtney
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,,Friday 8/11/23 at 6:15 PM with April Courtney
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,,Wednesday 8/30/23 at 5:45 PM with April Courtney
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,,Monday 9/11/23 at 5:45 PM with April Courtney
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,,Friday 9/22/23 at 6:15 PM with April Courtney
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,,Wednesday 10/11/23 at 5:45 PM with April Courtney
+Warren,Intermediate Obedience - Level 2 - $139​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ ​​,OBEDIENCE & MANNERS,,,Skip day 11/4​,Friday 11/3/23 at 6:15 PM with April Courtney 
+Warren,Advanced Obedience - Level 3 - $139​​​​​​,OBEDIENCE & MANNERS,,,Skip day 7/5​,Wednesday 6/14/23 at 7:00 PM with Heather Huff
+Warren,Advanced Obedience - Level 3 - $139​​​​​​,OBEDIENCE & MANNERS,,,,Friday 7/7/23 at 5:00 PM with April Courtney
+Warren,Advanced Obedience - Level 3 - $139​​​​​​,OBEDIENCE & MANNERS,,,,Monday 7/24/23 at 5:45 PM with April Courtney
+Warren,Advanced Obedience - Level 3 - $139​​​​​​,OBEDIENCE & MANNERS,,,,Monday 10/23/23 at 5:45 PM with April Courtney
+Warren,Get Control! - $150​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,,,,Friday 4/28/23 at 9:30 AM with Heather Constiner 
+Warren,Get Control! - $150​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,,,,Saturday 5/6/23 at 4 PM with Heather Constiner
+Warren,Get Control! - $150​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,,,Skip day 7/1​,Saturday 6/24/23 at 4:00 PM with Heather Constiner 
+Warren,Get Control! - $150​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,,,,Saturday 8/5/23 at 4:00 PM with Heather Constiner ​​
+Warren,Get Control! - $150​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,,,,Saturday 9/16/23 at 4:00 PM with Heather Constiner 
+Warren,Get Control! - $150​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,,,,Saturday 10/28/23 at 4:00 PM with Heather Constiner
+Warren,Get Control! - $150​​​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,,,,Saturday 12/9/23 at 4:00 PM with Heather Constiner 
+Warren,Fearful & Shy Dog Level 1 - Fear of People - $190​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,First class is 5:30pm-7:30pm; no dogs​,,,Saturday 4/15/23 at 5:30 PM with Heather Constiner
+Warren,Fearful & Shy Dog Level 1 - Fear of People - $190​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,First class is 5:30pm-7:30pm; no dogs​,,Skip day 7/1​,Saturday 6/3/23 at 5:30 PM with Heather Constiner 
+Warren,Fearful & Shy Dog Level 1 - Fear of People - $190​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,First class is 5:30pm-7:30pm; no dogs​,,,Saturday 7/22/23 at 5:30 PM with Heather Constiner 
+Warren,Fearful & Shy Dog Level 1 - Fear of People - $190​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,First class is 5:30pm-7:30pm; no dogs​,,,Saturday 9/9/23 at 5:30 PM with Heather Constiner 
+Warren,Fearful & Shy Dog Level 1 - Fear of People - $190​​​​​​​​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,First class is 5:30pm-7:30pm; no dogs​,,,Saturday 10/28/23 at 5:30 PM with Heather Constiner
+Warren,Reactive Dog Class - Level 1 - $220​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,,,First class is 7:15pm-8:45pm; no dogs​,Tuesday 5/16/23 at 7:15 PM with Heather Huff
+Warren,Reactive Dog Class - Level 1 - $220​​​​​​​​,SPECIALTY BEHAVIOR CLASSES,,,First class is 7:15pm-8:45pm; no dogs​,Tuesday 7/11/23 at 7:15 PM with Heather Huff
+Warren,Intro to Tricks - $139​​​,FUN CLASSES,,,,Friday 8/11/23 at 3:45 PM with April Courtney
+Warren,Brain Works for Dogs - Level 1 - $139,FUN CLASSES,,,Skip day 5/28​,Friday 5/12/23 at 3:45 PM with April Courtney
+Warren,Brain Works for Dogs - Level 2 - $139,FUN CLASSES,,,,Friday 6/30/23 at 3:45 PM with April Courtney
+Warren,Indoor Games for Dogs - $20​​​​​​,MINI CLASSES ,,,,Saturday 4/1/23 at 2:30 PM with Heather Constiner 
+Warren,Polite Greetings - $20​,MINI CLASSES ,,,,Wednesday 5/24/23 at 7:00 PM with Heather Huff
+Warren,Fun for Fido (A-F) - $20​,MINI CLASSES ,,,,Wednesday 5/17/23 at 7:00 PM with Heather Huff
+Warren,Fun for Fido (A-F) - $20​,MINI CLASSES ,,,,Wednesday 5/31/23 at 7:00 PM with Heather Huff
+Warren,Fun for Fido (A-F) - $20​,MINI CLASSES ,,,,D- Friday 6/9/23 at 5:00 PM with April Courtney
