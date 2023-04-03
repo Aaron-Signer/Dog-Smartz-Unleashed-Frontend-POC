@@ -1,0 +1,17 @@
+<p>Classes</p>
+
+
+<table style="border:  1px dashed red;">
+    <thead>
+        <th>Location <input [(ngModel)]="locationSeachField" (keyup)="onSearch()"></th>
+        <th>Class Type</th>
+        <th>Class Name</th>
+    </thead>
+    <tbody>
+        <tr *ngFor="let row of data.data">
+            <td>{{row.location}}</td>
+            <td>{{row['Class Type']}}</td>
+            <td>{{row['Class Name']}}</td>
+        </tr>
+    </tbody>
+</table>
