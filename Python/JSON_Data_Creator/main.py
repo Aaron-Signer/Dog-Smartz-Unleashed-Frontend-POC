@@ -2,7 +2,7 @@ import training_class_data as tcd
 import json
 import csv
 
-CSV_PATH = 'C:\git\Dog-Smartz-Unleashed-Frontend-POC\Python\Dog Smarts Data.csv'
+CSV_PATH = 'C:\\git\\Dog-Smartz-Unleashed-Frontend-POC\\Python\\Dog Smarts Data.csv'
 
 
 def import_csv_with_csv():
@@ -22,6 +22,7 @@ def import_csv_with_csv():
 def generate_json_data_file(json_data_object):
     with open('data.json', 'w') as outfile:
         json.dump(json_data_object, outfile, indent=4)
+
 
 if __name__ == '__main__':
     json_data_object = import_csv_with_csv()
