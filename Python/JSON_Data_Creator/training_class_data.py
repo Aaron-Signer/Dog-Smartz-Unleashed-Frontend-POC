@@ -2,14 +2,14 @@ import math
 
 class TrainingClassInfo:
     # For CSV reader
-    LOCATION = {'name': 'Location', 'index': 0}
-    CLASS_NAME = {'name': 'Class Name', 'index': 1}
-    CLASS_TYPE = {'name': 'Class Type', 'index': 2}
-    FIRST_CLASS_INFO = {'name': 'First Class Info', 'index': 3}
-    SKIP_DAY = {'name': 'Skip Day', 'index': 4}
-    PRICE = {'name': 'Price', 'index': 5}
-    INSTRUCTOR_NAME = {'name': 'Instructor Name', 'index': 6}
-    START_DATE_AND_TIME = {'name': 'Start Date and Time', 'index': 7}
+    LOCATION = {'inputName': 'Location', 'index': 0, 'outputName': 'location'}
+    CLASS_NAME = {'inputName': 'Class Name', 'index': 1, 'outputName': 'className'}
+    CLASS_TYPE = {'inputName': 'Class Type', 'index': 2, 'outputName': 'classType'}
+    FIRST_CLASS_INFO = {'inputName': 'First Class Info', 'index': 3, 'outputName': 'firstClassInfo'}
+    SKIP_DAY = {'inputName': 'Skip Day', 'index': 4, 'outputName': 'skipDay'}
+    PRICE = {'inputName': 'Price', 'index': 5, 'outputName': 'price'}
+    INSTRUCTOR_NAME = {'inputName': 'Instructor Name', 'index': 6, 'outputName': 'instructorName'}
+    START_DATE_AND_TIME = {'inputName': 'Start Date and Time', 'index': 7, 'outputName': 'startDateAndTime'}
 
 
     # For Pandas
@@ -33,14 +33,14 @@ class TrainingClassInfo:
 
 
     def create_dictionary(self):
-        training_data_dictionary = {TrainingClassInfo.LOCATION['name']: self.location,
-            TrainingClassInfo.CLASS_NAME['name']: self.class_name,
-            TrainingClassInfo.CLASS_TYPE['name']: self.class_type,
-            TrainingClassInfo.FIRST_CLASS_INFO['name']: self.first_class_time,
-            TrainingClassInfo.SKIP_DAY['name']: self.skip_day,
-            TrainingClassInfo.PRICE['name']: self.price,
-            TrainingClassInfo.INSTRUCTOR_NAME['name']: self.instructor_name,
-            TrainingClassInfo.START_DATE_AND_TIME['name']: self.start_date_and_time
+        training_data_dictionary = {TrainingClassInfo.LOCATION['outputName']: self.location,
+            TrainingClassInfo.CLASS_NAME['outputName']: self.class_name,
+            TrainingClassInfo.CLASS_TYPE['outputName']: self.class_type,
+            TrainingClassInfo.FIRST_CLASS_INFO['outputName']: self.first_class_time,
+            TrainingClassInfo.SKIP_DAY['outputName']: self.skip_day,
+            TrainingClassInfo.PRICE['outputName']: self.price,
+            TrainingClassInfo.INSTRUCTOR_NAME['outputName']: self.instructor_name,
+            TrainingClassInfo.START_DATE_AND_TIME['outputName']: self.start_date_and_time
             }
 
         return training_data_dictionary

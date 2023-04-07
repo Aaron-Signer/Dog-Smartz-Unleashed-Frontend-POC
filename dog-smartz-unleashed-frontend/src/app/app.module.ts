@@ -7,11 +7,13 @@ import { TrainingClassesComponent } from './components/training-classes/training
 
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
+import { CalanderComponent } from './components/calander/calander.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    TrainingClassesComponent
+    TrainingClassesComponent,
+    CalanderComponent
   ],
   imports: [
     BrowserModule,

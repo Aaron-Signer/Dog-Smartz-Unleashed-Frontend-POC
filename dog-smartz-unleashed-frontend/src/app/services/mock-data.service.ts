@@ -10,7 +10,7 @@ export class MockDataService {
 
   constructor(private http: HttpClient) { }
 
-  public getData(): Observable<TrainingData> {
-    return this.http.get<TrainingData>("assets/data.json");
+  public getData(): Observable<number> {
+    return this.http.get<number>("assets/data.json");
   }
 }

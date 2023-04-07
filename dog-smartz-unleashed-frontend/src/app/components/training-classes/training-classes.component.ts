@@ -9,7 +9,7 @@ import { TrainingData } from '../../models/training-data';
 })
 export class TrainingClassesComponent implements OnInit{
 
-  public data: TrainingData;
+  public data: any;
   public locationSeachField: string = '';
 
   constructor(private mockDataService: MockDataService) {this.data = new TrainingData();}

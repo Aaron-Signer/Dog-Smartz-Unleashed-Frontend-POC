@@ -1,0 +1,42 @@
+<div (click)="prevMonth()"> Prev month</div>
+{{currentDate.toLocaleString('default', { month: 'long' })}} {{currentDate.getFullYear()}}
+<div (click)="nextMonth()"> Next month</div>
+
+<div *ngIf="monthArray && monthArray.length > 0" style=" width:75%; display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    
+    padding: 10px;">
+        <div style="height: 50px; border: black solid 1px;">
+            <div style="padding: 10px;">Sunday
+            </div>
+        </div>
+    <div style="height: 50px; border: black solid 1px;">
+        <div style="padding: 10px;">Monday
+        </div>
+    </div>
+    <div style="height: 50px; border: black solid 1px;">
+        <div style="padding: 10px;">Tuesday
+        </div>
+    </div>
+    <div style="height: 50px; border: black solid 1px;">
+        <div style="padding: 10px;">Wednesday
+        </div>
+    </div>
+    <div style="height: 50px; border: black solid 1px;">
+        <div style="padding: 10px;">Thursday
+        </div>
+    </div>
+    <div style="height: 50px; border: black solid 1px;">
+        <div style="padding: 10px;">Friday
+        </div>
+    </div>
+    <div style="height: 50px; border: black solid 1px;">
+        <div style="padding: 10px;">Saturday
+        </div>
+    </div>
+
+    <div style="height: 100px; border: black solid 1px;" *ngFor="let item of monthArray">
+        <div *ngIf="item !== null" style="padding: 10px;" [ngClass]="{'grey-out' : item === 0}">{{item.getDate()}}
+        </div>
+    </div>
+</div>
