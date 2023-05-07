@@ -8,12 +8,14 @@ import { TrainingClassesComponent } from './components/training-classes/training
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { CalanderComponent } from './components/calander/calander.component';
+import { SearchComponent } from './components/search/search.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     TrainingClassesComponent,
-    CalanderComponent
+    CalanderComponent,
+    SearchComponent
   ],
   imports: [
     BrowserModule,

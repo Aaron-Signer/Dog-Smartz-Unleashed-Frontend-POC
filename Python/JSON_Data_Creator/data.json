@@ -1,6 +1,7 @@
 {
     "data": [
         {
+            "id": "a14eff61-71a4-46be-a72c-767b10837e0d",
             "location": "Poland",
             "className": "Puppy A.K.C. S.T.A.R. ",
             "classType": "A.K.C. PUPPY S.T.A.R. PUPPY CLASS",
@@ -11,6 +12,7 @@
             "startDateAndTime": "03/26/2023 02:30 PM"
         },
         {
+            "id": "41f2a42b-20bb-4e8f-9888-9f9af5d7ed9f",
             "location": "Poland",
             "className": "Puppy A.K.C. S.T.A.R. ",
             "classType": "A.K.C. PUPPY S.T.A.R. PUPPY CLASS",
@@ -21,6 +23,7 @@
             "startDateAndTime": "04/03/2023 05:45 PM"
         },
         {
+            "id": "e96c15c8-db38-4e9e-8f0b-09164f8d0eee",
             "location": "Poland",
             "className": "Puppy A.K.C. S.T.A.R. ",
             "classType": "A.K.C. PUPPY S.T.A.R. PUPPY CLASS",
@@ -31,6 +34,7 @@
             "startDateAndTime": "04/24/2023 05:45 PM"
         },
         {
+            "id": "6152115a-d6ea-4eee-9a53-958288cc1280",
             "location": "Poland",
             "className": "Puppy A.K.C. S.T.A.R. ",
             "classType": "A.K.C. PUPPY S.T.A.R. PUPPY CLASS",
@@ -41,6 +45,7 @@
             "startDateAndTime": "04/26/2023 07:00 PM"
         },
         {
+            "id": "13aa2fc2-c482-453e-8e29-77c9772c61bc",
             "location": "Poland",
             "className": "Puppy A.K.C. S.T.A.R. ",
             "classType": "A.K.C. PUPPY S.T.A.R. PUPPY CLASS",
@@ -51,6 +56,7 @@
             "startDateAndTime": "05/14/2023 02:30 PM"
         },
         {
+            "id": "f621d8ca-b120-4956-9199-2bda7b80268a",
             "location": "Poland",
             "className": "Puppy A.K.C. S.T.A.R. ",
             "classType": "A.K.C. PUPPY S.T.A.R. PUPPY CLASS",
@@ -61,6 +67,7 @@
             "startDateAndTime": "05/15/2023 05:45 PM"
         },
         {
+            "id": "418795b9-c3a8-42d1-acf8-ebff5ce22f11",
             "location": "Poland",
             "className": "Beginner Obedience ",
             "classType": "OBEDIENCE & MANNERS",
@@ -71,6 +78,7 @@
             "startDateAndTime": "03/28/2023 09:30 AM"
         },
         {
+            "id": "7b05f64d-aa35-453d-b7dc-384fbc230211",
             "location": "Poland",
             "className": "Beginner Obedience ",
             "classType": "OBEDIENCE & MANNERS",
@@ -81,6 +89,7 @@
             "startDateAndTime": "04/12/2023 05:45 PM"
         },
         {
+            "id": "96112cc0-c40b-43e5-a50e-96b21bdef942",
             "location": "Poland",
             "className": "Beginner Obedience ",
             "classType": "OBEDIENCE & MANNERS",
@@ -91,6 +100,7 @@
             "startDateAndTime": "04/16/2023 10:45 AM"
         },
         {
+            "id": "85fc95d5-c249-42d9-ab7f-634c362c2f36",
             "location": "Poland",
             "className": "Beginner Obedience ",
             "classType": "OBEDIENCE & MANNERS",
@@ -101,6 +111,7 @@
             "startDateAndTime": "04/16/2023 00:00 PM"
         },
         {
+            "id": "9aa51655-2736-473f-bbf8-9d52bc2757d1",
             "location": "Poland",
             "className": "Beginner Obedience ",
             "classType": "OBEDIENCE & MANNERS",
@@ -111,6 +122,7 @@
             "startDateAndTime": "04/22/2023 00:00 AM"
         },
         {
+            "id": "cfd482fb-a430-447c-958d-4b1d3f039ef5",
             "location": "Poland",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -121,6 +133,7 @@
             "startDateAndTime": "03/23/2023 05:45 PM"
         },
         {
+            "id": "5e7571eb-4e74-42c5-8f57-8751ef428b63",
             "location": "Poland",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -131,6 +144,7 @@
             "startDateAndTime": "04/05/2023 05:45 PM"
         },
         {
+            "id": "562f4aae-090d-4fb8-ae04-427c4b2361cc",
             "location": "Poland",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -141,6 +155,7 @@
             "startDateAndTime": "04/06/2023 09:30 AM"
         },
         {
+            "id": "3bbbbb09-d9ef-44f2-95af-e5be845282f0",
             "location": "Poland",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -151,6 +166,7 @@
             "startDateAndTime": "04/23/2023 10:45 AM"
         },
         {
+            "id": "407973b8-83dd-45fc-ac22-3869b53240a6",
             "location": "Poland",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -161,6 +177,7 @@
             "startDateAndTime": "04/25/2023 07:00 PM"
         },
         {
+            "id": "d5aeb8f8-366c-4256-a74e-f10b85d72764",
             "location": "Poland",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -171,6 +188,7 @@
             "startDateAndTime": "05/02/2023 05:45 PM"
         },
         {
+            "id": "4537a7f5-74e0-4d65-a406-e5f9c09dd090",
             "location": "Poland",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -181,6 +199,7 @@
             "startDateAndTime": "06/06/2023 09:30 AM"
         },
         {
+            "id": "69d7fcf0-c967-4ecd-9285-fb3e75ae67be",
             "location": "Poland",
             "className": "Get Control! ",
             "classType": "SPECIALTY BEHAVIOR",
@@ -191,6 +210,7 @@
             "startDateAndTime": "04/08/2023 11:30 AM"
         },
         {
+            "id": "a526f104-7115-4e40-89aa-e56151836ff6",
             "location": "Poland",
             "className": "Get Control! ",
             "classType": "SPECIALTY BEHAVIOR",
@@ -201,6 +221,7 @@
             "startDateAndTime": "04/18/2023 05:45 PM"
         },
         {
+            "id": "6dd29f07-4e9d-4d14-978d-0d94b556576c",
             "location": "Poland",
             "className": "Get Control! ",
             "classType": "SPECIALTY BEHAVIOR",
@@ -211,6 +232,7 @@
             "startDateAndTime": "04/29/2023 10:15 AM"
         },
         {
+            "id": "c3c036d4-4616-4a36-9fdf-279da2a1b8c7",
             "location": "Poland",
             "className": "Get Control! ",
             "classType": "SPECIALTY BEHAVIOR",
@@ -221,6 +243,7 @@
             "startDateAndTime": "05/04/2023 10:45 AM"
         },
         {
+            "id": "e5d487e4-8f10-4772-8fdb-3bdb7fafa546",
             "location": "Poland",
             "className": "Get Control! ",
             "classType": "SPECIALTY BEHAVIOR",
@@ -231,6 +254,7 @@
             "startDateAndTime": "06/06/2023 05:45 PM"
         },
         {
+            "id": "3c51bae3-e599-47dc-9f1b-a0fcaf14042c",
             "location": "Poland",
             "className": "Fearful and Shy Dog Level 1 - Fear of People ",
             "classType": "SPECIALTY BEHAVIOR",
@@ -241,6 +265,7 @@
             "startDateAndTime": "04/19/2023 09:30 AM"
         },
         {
+            "id": "b1334f09-8e88-4896-8261-fdbfcc7fc603",
             "location": "Poland",
             "className": "Fearful and Shy Dog Level 1 - Fear of People ",
             "classType": "SPECIALTY BEHAVIOR",
@@ -251,6 +276,7 @@
             "startDateAndTime": "04/23/2023 09:30 AM"
         },
         {
+            "id": "61c068e2-75ca-4741-bf82-f1c58ec958e7",
             "location": "Poland",
             "className": "Fearful and Shy Dog Level 1 - Fear of People ",
             "classType": "SPECIALTY BEHAVIOR",
@@ -261,6 +287,7 @@
             "startDateAndTime": "04/30/2023 04:00 PM"
         },
         {
+            "id": "aff6b703-b2ac-4b59-a292-0074ba96e2d7",
             "location": "Poland",
             "className": "Fearful and Shy Dog Level 1 - Fear of People ",
             "classType": "SPECIALTY BEHAVIOR",
@@ -271,6 +298,7 @@
             "startDateAndTime": "05/31/2023 09:30 AM"
         },
         {
+            "id": "8d9aa76c-2316-4548-b347-8f7da329c62d",
             "location": "Poland",
             "className": "Fearful and Shy Dog Level 1 - Fear of People ",
             "classType": "SPECIALTY BEHAVIOR",
@@ -281,6 +309,7 @@
             "startDateAndTime": "06/11/2023 04:00 PM"
         },
         {
+            "id": "380d94c0-1480-4ad9-a450-2d0b9e4bca76",
             "location": "Poland",
             "className": "Small Dog Tricks and Enrichment ",
             "classType": "FUN CLASSES",
@@ -291,6 +320,7 @@
             "startDateAndTime": "04/20/2023 10:45 AM"
         },
         {
+            "id": "07a24dc2-a0c2-4ca9-9403-a05c5d0a612e",
             "location": "Poland",
             "className": "Intro to Tricks ",
             "classType": "FUN CLASSES",
@@ -301,6 +331,7 @@
             "startDateAndTime": "04/23/2023 02:30 PM"
         },
         {
+            "id": "9bd7fc48-e86d-4a4e-afec-f29a5e26a280",
             "location": "Poland",
             "className": "Polite Greetings ",
             "classType": "MINI CLASSES",
@@ -311,6 +342,7 @@
             "startDateAndTime": "04/16/2023 02:30 PM"
         },
         {
+            "id": "e902a9d2-d313-42be-bc03-3e9a949f7096",
             "location": "Poland",
             "className": "Puppy Power Hour ",
             "classType": "MINI CLASSES",
@@ -321,6 +353,7 @@
             "startDateAndTime": "03/27/2023 05:45 PM"
         },
         {
+            "id": "d25d97cb-596b-421d-a945-ca7bf4c63375",
             "location": "Poland",
             "className": "Puppy Power Hour ",
             "classType": "MINI CLASSES",
@@ -331,6 +364,7 @@
             "startDateAndTime": "04/03/2023 05:45 PM"
         },
         {
+            "id": "137cfe32-9f4f-4468-8523-0dd175ce8294",
             "location": "Poland",
             "className": "Puppy Power Hour ",
             "classType": "MINI CLASSES",
@@ -341,6 +375,7 @@
             "startDateAndTime": "04/10/2023 05:45 PM"
         },
         {
+            "id": "fa1f9100-db93-4776-9ed4-c393761046c7",
             "location": "Poland",
             "className": "Puppy Power Hour ",
             "classType": "MINI CLASSES",
@@ -351,6 +386,7 @@
             "startDateAndTime": "04/17/2023 05:45 PM"
         },
         {
+            "id": "9ee21105-8ab2-4d4e-9e55-b98aaa352eae",
             "location": "Warren",
             "className": "Puppy Class - AKC S.T.A.R. ",
             "classType": "A.K.C. PUPPY S.T.A.R. PUPPY CLASS",
@@ -361,6 +397,7 @@
             "startDateAndTime": "04/08/2023 02:45 PM"
         },
         {
+            "id": "acf9ed2d-18bd-4ec2-967d-f0cda3d2c7f8",
             "location": "Warren",
             "className": "Puppy Class - AKC S.T.A.R. ",
             "classType": "A.K.C. PUPPY S.T.A.R. PUPPY CLASS",
@@ -371,6 +408,7 @@
             "startDateAndTime": "05/20/2023 02:45 PM"
         },
         {
+            "id": "03ffcbc4-a3a8-4b69-9586-8e830897d4bb",
             "location": "Warren",
             "className": "Puppy Class - AKC S.T.A.R. ",
             "classType": "A.K.C. PUPPY S.T.A.R. PUPPY CLASS",
@@ -381,6 +419,7 @@
             "startDateAndTime": "07/15/2023 03:45 PM"
         },
         {
+            "id": "73aa8369-4eb0-4fc1-8e9b-0b505c77ff4a",
             "location": "Warren",
             "className": "Puppy Class - AKC S.T.A.R. ",
             "classType": "A.K.C. PUPPY S.T.A.R. PUPPY CLASS",
@@ -391,6 +430,7 @@
             "startDateAndTime": "08/26/2023 02:45 PM"
         },
         {
+            "id": "e1e24da9-9d12-445d-9e26-733a86f62559",
             "location": "Warren",
             "className": "Puppy Class - AKC S.T.A.R. ",
             "classType": "A.K.C. PUPPY S.T.A.R. PUPPY CLASS",
@@ -401,6 +441,7 @@
             "startDateAndTime": "10/07/2023 02:45 PM"
         },
         {
+            "id": "d6d370b0-8457-4df9-8dd9-9a903a73bfb5",
             "location": "Warren",
             "className": "Puppy Class - AKC S.T.A.R. ",
             "classType": "A.K.C. PUPPY S.T.A.R. PUPPY CLASS",
@@ -411,6 +452,7 @@
             "startDateAndTime": "11/18/2023 02:45 PM"
         },
         {
+            "id": "b542391b-9fe4-4db2-8e47-829c0f656e85",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -421,6 +463,7 @@
             "startDateAndTime": "04/05/2023 07:00 PM"
         },
         {
+            "id": "b51c22fe-07d5-4a5e-b96f-cc3b04c993b6",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -431,6 +474,7 @@
             "startDateAndTime": "04/07/2023 07:30 PM"
         },
         {
+            "id": "b2f39224-f6d2-47fe-a223-18735879e8f3",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -441,6 +485,7 @@
             "startDateAndTime": "04/16/2023 01:15 PM"
         },
         {
+            "id": "e0075ddc-f01d-4c77-9f82-a13a9afcac9c",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -451,6 +496,7 @@
             "startDateAndTime": "04/17/2023 07:00 PM"
         },
         {
+            "id": "13d3ef61-4c9e-459e-9560-dd436f121fdc",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -461,6 +507,7 @@
             "startDateAndTime": "04/26/2023 05:45 PM"
         },
         {
+            "id": "e6967769-6954-48c5-b710-5896375b0e8d",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -471,6 +518,7 @@
             "startDateAndTime": "05/05/2023 10:45 AM"
         },
         {
+            "id": "d95e0e5b-c2c8-4b71-952b-b13f6777c6c1",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -481,6 +529,7 @@
             "startDateAndTime": "05/07/2023 12:00 PM"
         },
         {
+            "id": "7b788a9b-6fbd-430f-95fd-d3f8bb2a5c5b",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -491,6 +540,7 @@
             "startDateAndTime": "05/17/2023 00:00 PM"
         },
         {
+            "id": "8e303066-d4ee-42e8-b250-69d6318371f3",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -501,6 +551,7 @@
             "startDateAndTime": "05/19/2023 07:30 PM"
         },
         {
+            "id": "77542ca9-ca91-4d42-9311-0a6bf79d2f51",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -511,6 +562,7 @@
             "startDateAndTime": "06/05/2023 07:00 PM"
         },
         {
+            "id": "728a2c47-d882-4056-901b-357b9963f5a7",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -521,6 +573,7 @@
             "startDateAndTime": "06/07/2023 05:45 PM"
         },
         {
+            "id": "1b4f838e-807b-400e-86f7-6bc83535cd31",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -531,6 +584,7 @@
             "startDateAndTime": "06/11/2023 01:15 PM"
         },
         {
+            "id": "a013036f-cd0b-41b6-b6c3-546831fe34aa",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -541,6 +595,7 @@
             "startDateAndTime": "06/28/2023 00:00 PM"
         },
         {
+            "id": "32dd9d1f-79f4-4efb-b6f3-e3277a88005c",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -551,6 +606,7 @@
             "startDateAndTime": "07/07/2023 07:30 PM"
         },
         {
+            "id": "d2709cde-fdf5-4cf8-8c5c-6cda9b433728",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -561,6 +617,7 @@
             "startDateAndTime": "07/16/2023 12:00 PM"
         },
         {
+            "id": "0df5d678-8409-4fd3-9545-a1df99d3124a",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -571,6 +628,7 @@
             "startDateAndTime": "07/24/2023 00:00 PM"
         },
         {
+            "id": "2ccaf360-3f1f-47c0-aef3-500de5770ea4",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -581,6 +639,7 @@
             "startDateAndTime": "08/06/2023 01:15 PM"
         },
         {
+            "id": "d9792952-0a61-4948-9df3-3b9104b6d1f5",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -591,6 +650,7 @@
             "startDateAndTime": "08/09/2023 00:00 PM"
         },
         {
+            "id": "55faed0b-8343-462e-b7ac-3e2e445b0598",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -601,6 +661,7 @@
             "startDateAndTime": "08/18/2023 07:30 PM"
         },
         {
+            "id": "5f54a162-1626-4862-b3ff-73f40b661d8d",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -611,6 +672,7 @@
             "startDateAndTime": "08/27/2023 12:00 PM"
         },
         {
+            "id": "84fab444-6cd4-4728-beae-70513d188388",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -621,6 +683,7 @@
             "startDateAndTime": "09/11/2023 00:00 PM"
         },
         {
+            "id": "6e733ab6-6fd9-460b-95a2-f5123bf3be64",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -631,6 +694,7 @@
             "startDateAndTime": "09/20/2023 00:00 PM"
         },
         {
+            "id": "50ff9261-765b-467b-832a-424184cb76e8",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -641,6 +705,7 @@
             "startDateAndTime": "09/29/2023 07:30 PM"
         },
         {
+            "id": "39768c47-2612-4ac6-ba24-e84ff62eabdf",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -651,6 +716,7 @@
             "startDateAndTime": "10/23/2023 00:00 PM"
         },
         {
+            "id": "247c7da2-b68f-48cc-9d80-69b18b9258c3",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -661,6 +727,7 @@
             "startDateAndTime": "11/01/2023 00:00 PM"
         },
         {
+            "id": "c67e684d-b277-4b4e-8559-3b1517983e76",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -671,6 +738,7 @@
             "startDateAndTime": "11/10/2023 07:30 PM"
         },
         {
+            "id": "85bd3362-75ff-4681-81c1-ddc9af0a7798",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -681,6 +749,7 @@
             "startDateAndTime": "12/04/2023 00:00 PM"
         },
         {
+            "id": "760aba76-7275-4dfd-9342-3d0a251a53b4",
             "location": "Warren",
             "className": "Beginner Obedience-Level 1 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -691,6 +760,7 @@
             "startDateAndTime": "12/13/2023 00:00 PM"
         },
         {
+            "id": "3fc8cfdd-b3e9-495d-a443-332068328784",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -701,6 +771,7 @@
             "startDateAndTime": "03/31/2023 06:15 PM"
         },
         {
+            "id": "a5b4713b-5f8b-4f25-bffe-73dbfb5c46ce",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -711,6 +782,7 @@
             "startDateAndTime": "04/05/2023 07:00 PM"
         },
         {
+            "id": "06df81f5-f139-49e9-9a79-0b5f23d04a48",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -721,6 +793,7 @@
             "startDateAndTime": "04/10/2023 05:45 PM"
         },
         {
+            "id": "4c65beb2-5acd-4b63-879c-dfc033e6f242",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -731,6 +804,7 @@
             "startDateAndTime": "04/26/2023 05:45 PM"
         },
         {
+            "id": "b583e047-d7ff-4606-8911-6cc3da398be6",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -741,6 +815,7 @@
             "startDateAndTime": "05/12/2023 12:00 PM"
         },
         {
+            "id": "f0afe6f1-f67a-4c7b-99d3-78b5cf0cbf6c",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -751,6 +826,7 @@
             "startDateAndTime": "05/12/2023 06:15 PM"
         },
         {
+            "id": "7827ce7e-0967-4ee5-b949-5db736ef9b48",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -761,6 +837,7 @@
             "startDateAndTime": "06/07/2023 05:45 PM"
         },
         {
+            "id": "03a94b37-8b69-45e1-842b-dcd9b04bae4f",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -771,6 +848,7 @@
             "startDateAndTime": "06/30/2023 06:15 PM"
         },
         {
+            "id": "437f583d-953a-4f34-83ef-ffa67942f76c",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -781,6 +859,7 @@
             "startDateAndTime": "07/19/2023 05:45 PM"
         },
         {
+            "id": "0ecc87ef-633d-4936-8605-c343c7b1cbba",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -791,6 +870,7 @@
             "startDateAndTime": "08/11/2023 06:15 PM"
         },
         {
+            "id": "e2f31cb4-7c24-4e2f-9671-bc0345e2c922",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -801,6 +881,7 @@
             "startDateAndTime": "08/30/2023 05:45 PM"
         },
         {
+            "id": "28cc8fbb-e06e-413d-9592-b15487bf82ae",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -811,6 +892,7 @@
             "startDateAndTime": "09/11/2023 05:45 PM"
         },
         {
+            "id": "5e69dab8-990b-4927-9a22-49780e58ddc5",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -821,6 +903,7 @@
             "startDateAndTime": "09/22/2023 06:15 PM"
         },
         {
+            "id": "3aab2bd9-43dc-4ccd-b14b-06904673a066",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -831,6 +914,7 @@
             "startDateAndTime": "10/11/2023 05:45 PM"
         },
         {
+            "id": "c42bc844-931c-4768-97e0-e37c26848e3e",
             "location": "Warren",
             "className": "Intermediate Obedience - Level 2 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -841,6 +925,7 @@
             "startDateAndTime": "11/03/2023 06:15 PM"
         },
         {
+            "id": "cb59a7d9-0bb7-457a-8735-c227cb9af4bd",
             "location": "Warren",
             "className": "Advanced Obedience - Level 3 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -851,6 +936,7 @@
             "startDateAndTime": "06/14/2023 07:00 PM"
         },
         {
+            "id": "43c420da-fdfa-41ce-922e-c9ef8394da00",
             "location": "Warren",
             "className": "Advanced Obedience - Level 3 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -861,6 +947,7 @@
             "startDateAndTime": "07/07/2023 05:00 PM"
         },
         {
+            "id": "383233da-fae8-44ba-8c23-970876104540",
             "location": "Warren",
             "className": "Advanced Obedience - Level 3 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -871,6 +958,7 @@
             "startDateAndTime": "07/24/2023 05:45 PM"
         },
         {
+            "id": "7c58d9a4-eda8-4d60-aa97-66449439266a",
             "location": "Warren",
             "className": "Advanced Obedience - Level 3 ",
             "classType": "OBEDIENCE & MANNERS",
@@ -881,6 +969,7 @@
             "startDateAndTime": "10/23/2023 05:45 PM"
         },
         {
+            "id": "63edc09d-0fa4-44d2-9c43-e8bceb14a38d",
             "location": "Warren",
             "className": "Get Control! ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -891,6 +980,7 @@
             "startDateAndTime": "04/28/2023 09:30 AM"
         },
         {
+            "id": "0a124b0d-23b8-4d2d-871c-2cad8c972694",
             "location": "Warren",
             "className": "Get Control! ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -901,6 +991,7 @@
             "startDateAndTime": "05/06/2023 00:00 PM"
         },
         {
+            "id": "95450fd0-e030-42aa-beb3-a3b1ca0db61a",
             "location": "Warren",
             "className": "Get Control! ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -911,6 +1002,7 @@
             "startDateAndTime": "06/24/2023 04:00 PM"
         },
         {
+            "id": "f4f7388f-6560-4850-a2de-56b459ae57a8",
             "location": "Warren",
             "className": "Get Control! ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -921,6 +1013,7 @@
             "startDateAndTime": "08/05/2023 04:00 PM"
         },
         {
+            "id": "d9a78d43-6755-4f28-b986-2a906b93d15c",
             "location": "Warren",
             "className": "Get Control! ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -931,6 +1024,7 @@
             "startDateAndTime": "09/16/2023 04:00 PM"
         },
         {
+            "id": "47e6ddfb-3a45-4600-a084-4013ff020de0",
             "location": "Warren",
             "className": "Get Control! ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -941,6 +1035,7 @@
             "startDateAndTime": "10/28/2023 04:00 PM"
         },
         {
+            "id": "73284f51-dc09-4c71-a732-5d2531ed228f",
             "location": "Warren",
             "className": "Get Control! ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -951,6 +1046,7 @@
             "startDateAndTime": "12/09/2023 04:00 PM"
         },
         {
+            "id": "3420113b-f2bc-4e91-9bfd-1638b4c83d12",
             "location": "Warren",
             "className": "Fearful & Shy Dog Level 1 - Fear of People ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -961,6 +1057,7 @@
             "startDateAndTime": "04/15/2023 05:30 PM"
         },
         {
+            "id": "87e41cba-2b77-45ee-8cae-ea7b4370f89a",
             "location": "Warren",
             "className": "Fearful & Shy Dog Level 1 - Fear of People ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -971,6 +1068,7 @@
             "startDateAndTime": "06/03/2023 05:30 PM"
         },
         {
+            "id": "594e3a57-4d64-4697-a70f-70a9a2fc2c7a",
             "location": "Warren",
             "className": "Fearful & Shy Dog Level 1 - Fear of People ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -981,6 +1079,7 @@
             "startDateAndTime": "07/22/2023 05:30 PM"
         },
         {
+            "id": "dd3cbd89-f83a-425d-96d9-301cb5bef83a",
             "location": "Warren",
             "className": "Fearful & Shy Dog Level 1 - Fear of People ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -991,6 +1090,7 @@
             "startDateAndTime": "09/09/2023 05:30 PM"
         },
         {
+            "id": "cd806fa6-dde5-4771-89a7-3cc76e05fa6f",
             "location": "Warren",
             "className": "Fearful & Shy Dog Level 1 - Fear of People ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -1001,6 +1101,7 @@
             "startDateAndTime": "10/28/2023 05:30 PM"
         },
         {
+            "id": "ed7124a2-96ea-4a22-993b-913795eaf31e",
             "location": "Warren",
             "className": "Reactive Dog Class - Level 1 ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -1011,6 +1112,7 @@
             "startDateAndTime": "05/16/2023 07:15 PM"
         },
         {
+            "id": "31284894-8923-49d4-b2e7-74f514979df7",
             "location": "Warren",
             "className": "Reactive Dog Class - Level 1 ",
             "classType": "SPECIALTY BEHAVIOR CLASSES",
@@ -1021,6 +1123,7 @@
             "startDateAndTime": "07/11/2023 07:15 PM"
         },
         {
+            "id": "15f4990b-982d-42ed-8f6a-77a7ab3fa481",
             "location": "Warren",
             "className": "Intro to Tricks ",
             "classType": "FUN CLASSES",
@@ -1031,6 +1134,7 @@
             "startDateAndTime": "08/11/2023 03:45 PM"
         },
         {
+            "id": "5008352e-3df0-41f2-9327-afb61e85ff68",
             "location": "Warren",
             "className": "Brain Works for Dogs - Level 1 ",
             "classType": "FUN CLASSES",
@@ -1041,6 +1145,7 @@
             "startDateAndTime": "05/12/2023 03:45 PM"
         },
         {
+            "id": "e4970384-4495-49e2-b11d-96421509bc64",
             "location": "Warren",
             "className": "Brain Works for Dogs - Level 2 ",
             "classType": "FUN CLASSES",
@@ -1051,6 +1156,7 @@
             "startDateAndTime": "06/30/2023 03:45 PM"
         },
         {
+            "id": "ddddb5e5-ef93-4308-a38b-51eb78bfee85",
             "location": "Warren",
             "className": "Indoor Games for Dogs ",
             "classType": "MINI CLASSES",
@@ -1061,6 +1167,7 @@
             "startDateAndTime": "04/01/2023 02:30 PM"
         },
         {
+            "id": "1efe14ce-01e9-451b-afa7-f8a74596d243",
             "location": "Warren",
             "className": "Polite Greetings ",
             "classType": "MINI CLASSES",
@@ -1071,6 +1178,7 @@
             "startDateAndTime": "05/24/2023 07:00 PM"
         },
         {
+            "id": "7c6c8df8-4b2f-42d2-bc33-78fd1f3e5ccd",
             "location": "Warren",
             "className": "Fun for Fido (A - F)",
             "classType": "MINI CLASSES",
@@ -1081,6 +1189,7 @@
             "startDateAndTime": "05/17/2023 07:00 PM"
         },
         {
+            "id": "25b619d2-63ab-4b85-bb41-c25e19703e55",
             "location": "Warren",
             "className": "Fun for Fido (A - F)",
             "classType": "MINI CLASSES",
@@ -1091,6 +1200,7 @@
             "startDateAndTime": "05/31/2023 07:00 PM"
         },
         {
+            "id": "9a688c16-3f7f-495d-a65a-2ab7507bb73c",
             "location": "Warren",
             "className": "Fun for Fido (A - F)",
             "classType": "MINI CLASSES",

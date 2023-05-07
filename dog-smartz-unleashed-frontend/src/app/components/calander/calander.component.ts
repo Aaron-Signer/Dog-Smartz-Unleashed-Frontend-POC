@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { MockDataService } from 'src/app/services/mock-data.service';
 import { TrainingData } from '../../models/training-data';
+import { CalanderDay } from 'src/app/models/calander-day';
 
 @Component({
   selector: 'app-calander',
@@ -9,24 +10,35 @@ import { TrainingData } from '../../models/training-data';
 })
 export class CalanderComponent {
 
-  public monthArray: any [] = [];
+  public monthArray: CalanderDay [] = [];
   public currentDate: Date = new Date();
 
   public data: any;
   public locationSeachField: string = '';
 
+  public colors = {
+    'Sam Ragan': '#BF3FBF',
+    'Dee Franke': 'rgb(63%, 33%, 99%)',
+    'Jenny Falvey': 'rgb(15%, 87%, 83%)',
+    'Amber Nemergut': 'rgb(64%, 60%, 1%)',
+    'Heather Constiner': 'rgb(31%, 89%, 28%)',
+    'Karen Becker': 'rgb(9%, 71%, 59%)',
+    'April Courtney': 'rgb(48%, 45%, 29%)',
+    'Heather Huff': 'rgb(53%, 24%, 23%)'
+  }
+
+  public locationColors = {
+    'Poland': '#BF3FBF',
+    'Warren': 'rgb(15%, 87%, 83%)'
+  }
+
   constructor(private mockDataService: MockDataService) {this.data = new TrainingData();}
     
   ngOnInit() {
-    this.monthArray = this.getCalanderArrayByMonthAndYear(this.currentDate.getMonth(), this.currentDate.getFullYear());
-    console.log(this.monthArray);
-    // this.printCalanderArray(populateCalanderArray);
-
     this.mockDataService.getData().subscribe(data => {
       this.data = data;
-      console.log(this.data);
+      this.monthArray = this.getCalanderArrayByMonthAndYear(this.currentDate.getMonth(), this.currentDate.getFullYear());
     });
-
   }
 
   public prevMonth(): void {
@@ -51,7 +63,7 @@ export class CalanderComponent {
     this.monthArray = this.getCalanderArrayByMonthAndYear(this.currentDate.getMonth(), this.currentDate.getFullYear());
   }
 
-  public getCalanderArrayByMonthAndYear(month: number, year: number): any[][] {
+  public getCalanderArrayByMonthAndYear(month: number, year: number): CalanderDay[] {
     const firstOfMonth = new Date(year, month, 1);
     const firstDayOfMonthInt = firstOfMonth.getDay();
 
@@ -63,7 +75,7 @@ export class CalanderComponent {
     return populatedCalanderArray;
   }
 
-  public createEmptyCalanderArray(): any[] {
+  public createEmptyCalanderArray(): CalanderDay[] {
     let emptyMonthArray = new Array();
 
     for (let row = 0; row < 42; row++) {
@@ -73,16 +85,45 @@ export class CalanderComponent {
     return emptyMonthArray;
   }
 
-  public populateCalanderArray(emptyCalanderArray: any[], firstDayOfTheMonthInt: number, lastDayOfTheMonthInt: number): any[] {
+  public populateCalanderArray(emptyCalanderArray: CalanderDay[], firstDayOfTheMonthInt: number, lastDayOfTheMonthInt: number): CalanderDay[] {
     let day = 1
     for (let i = firstDayOfTheMonthInt; i < firstDayOfTheMonthInt + lastDayOfTheMonthInt; i ++) {
       let newDate = new Date(this.currentDate.getFullYear(), this.currentDate.getMonth(), day);
-      emptyCalanderArray[i] = newDate;
+      let calanderDay = new CalanderDay(newDate);
+
+      let classesOfTheDay = this.data.data.filter(item => {
+        let dd = new Date(item['startDateAndTime']);
+        return this.compateDates(dd, newDate);
+      })
+
+      calanderDay.events = classesOfTheDay.sort((item1, item2) => {
+        let result = new Date(item1['startDateAndTime']).getTime() -  new Date(item2['startDateAndTime']).getTime();
+
+        if (result == 0) {
+          result = item1['instructorName'].localeCompare(item2['instructorName']);
+        }
+
+        return result;
+      })
+
+      // calanderDay.events = classesOfTheDay;
+
+      emptyCalanderArray[i] = calanderDay;
       day++;
     }
 
     return emptyCalanderArray;
     
+  }
+
+  public compateDates(date1: Date, date2: Date): boolean {
+    return date1.getFullYear() === date2.getFullYear() && 
+           date1.getMonth() === date2.getMonth() &&
+           date1.getDate() === date2.getDate();
+  }
+
+  public showOverlay(event: any): void {
+    console.log(this.data.data.filter(item => {return event.originalTarget.id === item.id})[0]);
   }
 
 // 2d array impl

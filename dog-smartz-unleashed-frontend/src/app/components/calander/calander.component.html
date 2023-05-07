@@ -1,42 +1,66 @@
-<div (click)="prevMonth()"> Prev month</div>
-{{currentDate.toLocaleString('default', { month: 'long' })}} {{currentDate.getFullYear()}}
-<div (click)="nextMonth()"> Next month</div>
-
-<div *ngIf="monthArray && monthArray.length > 0" style=" width:75%; display: grid;
-    grid-template-columns: auto auto auto auto auto auto auto;
-    
-    padding: 10px;">
-        <div style="height: 50px; border: black solid 1px;">
-            <div style="padding: 10px;">Sunday
+<div>
+    <div>
+        
+        <h1 style="text-align: center; margin: 10px;">
+            <img (click)="prevMonth()" class="arrow" src="/assets/left-arrow-icon.png">
+            <img (click)="nextMonth()" class="arrow" src="/assets/right-arrow-icon.png">
+            {{currentDate.toLocaleString('default', { month: 'long' })}} {{currentDate.getFullYear()}}
+        </h1>
+    </div>
+    <div *ngIf="monthArray && monthArray.length > 0" style=" display: grid;
+        grid-template-columns: repeat(7, minmax(0, 1fr));;
+        
+        padding: 10px;">
+            <div style="height: 50px; border: black solid 1px; background-color: rgb(160, 188, 217);">
+                <div style="padding: 10px;">Sunday
+                </div>
+            </div>
+        <div style="height: 50px; border: black solid 1px; background-color: rgb(160, 188, 217);">
+            <div style="padding: 10px;">Monday
             </div>
         </div>
-    <div style="height: 50px; border: black solid 1px;">
-        <div style="padding: 10px;">Monday
+        <div style="height: 50px; border: black solid 1px; background-color: rgb(160, 188, 217);">
+            <div style="padding: 10px;">Tuesday
+            </div>
         </div>
-    </div>
-    <div style="height: 50px; border: black solid 1px;">
-        <div style="padding: 10px;">Tuesday
+        <div style="height: 50px; border: black solid 1px; background-color: rgb(160, 188, 217);">
+            <div style="padding: 10px;">Wednesday
+            </div>
         </div>
-    </div>
-    <div style="height: 50px; border: black solid 1px;">
-        <div style="padding: 10px;">Wednesday
+        <div style="height: 50px; border: black solid 1px; background-color: rgb(160, 188, 217);">
+            <div style="padding: 10px;">Thursday
+            </div>
         </div>
-    </div>
-    <div style="height: 50px; border: black solid 1px;">
-        <div style="padding: 10px;">Thursday
+        <div style="height: 50px; border: black solid 1px; background-color: rgb(160, 188, 217);">
+            <div style="padding: 10px;">Friday
+            </div>
         </div>
-    </div>
-    <div style="height: 50px; border: black solid 1px;">
-        <div style="padding: 10px;">Friday
+        <div style="height: 50px; border: black solid 1px; background-color: rgb(160, 188, 217);">
+            <div style="padding: 10px;">Saturday
+            </div>
         </div>
-    </div>
-    <div style="height: 50px; border: black solid 1px;">
-        <div style="padding: 10px;">Saturday
-        </div>
-    </div>
 
-    <div style="height: 100px; border: black solid 1px;" *ngFor="let item of monthArray">
-        <div *ngIf="item !== null" style="padding: 10px;" [ngClass]="{'grey-out' : item === 0}">{{item.getDate()}}
+        <div style="height: 120px; border: black solid 1px;" *ngFor="let item of monthArray">
+            <div *ngIf="item !== null" style="padding: 5px;">{{item.date.getDate()}}
+                <div id="{{day.id}}" (mouseover)="showOverlay($event)"
+                    *ngFor="let day of item.events"  [style.background-color]="locationColors[day.location]"  style="font-size: 12px; background-color: blue; margin-top: 1px; color: white; border-radius: 25px; padding-left: 8px; padding-right: 8px;   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    {{day.startDateAndTime | date:'hh:mm a'}}: {{day.instructorName}}: {{day.className}}
+                </div>
+            </div>
         </div>
+
+        <!-- <div style="height: 120px; border: black solid 1px;" *ngFor="let item of monthArray">
+            <div *ngIf="item !== null" style="padding: 5px;">{{item.date.getDate()}}
+                <div id="{{day.id}}" (mouseover)="showOverlay($event)"
+                    *ngFor="let day of item.events" style="font-size: 12px; margin-top: 1px; color: white; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    <div style="display: inline-block; width: 43px;" [style.background-color]="locationColors[day.location]">
+                        {{day.location}}
+                    </div>
+                    <div style="display: inline;" [style.background-color]="colors[day.instructorName]" >
+                        {{day.startDateAndTime | date:'hh:mm a'}}:{{day.className}}
+                    </div>
+                </div>
+            </div>
+        </div> -->
     </div>
 </div>

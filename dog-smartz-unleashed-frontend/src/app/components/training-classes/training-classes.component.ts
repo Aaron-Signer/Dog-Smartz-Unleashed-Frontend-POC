@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { MockDataService } from 'src/app/services/mock-data.service';
 import { TrainingData } from '../../models/training-data';
+import * as _ from 'lodash';
 
 @Component({
   selector: 'app-training-classes',
@@ -10,23 +11,17 @@ import { TrainingData } from '../../models/training-data';
 export class TrainingClassesComponent implements OnInit{
 
   public data: any;
-  public locationSeachField: string = '';
+  public filteredData: any;
 
   constructor(private mockDataService: MockDataService) {this.data = new TrainingData();}
 
   ngOnInit() {
       this.mockDataService.getData().subscribe(data => {
       this.data = data;
-      console.log(this.data);
+      this.filteredData = _.cloneDeep(this.data);
     });
 
   }
 
-  public onSearch(): void {
-    console.log(this.locationSeachField);
-    // this.data.filter(row => {
-    //   row['Location'].contains === this.locationSeachField
-    // })
-  }
 
 }

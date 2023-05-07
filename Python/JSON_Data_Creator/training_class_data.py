@@ -1,4 +1,5 @@
 import math
+import uuid
 
 class TrainingClassInfo:
     # For CSV reader
@@ -22,6 +23,7 @@ class TrainingClassInfo:
     # MISC = 'misc'
 
     def __init__(self, row):
+        self.id = str(uuid.uuid4())
         self.location = row[TrainingClassInfo.LOCATION['index']]
         self.class_name = row[TrainingClassInfo.CLASS_NAME['index']]
         self.class_type = row[TrainingClassInfo.CLASS_TYPE['index']]
@@ -33,7 +35,8 @@ class TrainingClassInfo:
 
 
     def create_dictionary(self):
-        training_data_dictionary = {TrainingClassInfo.LOCATION['outputName']: self.location,
+        training_data_dictionary = {'id': self.id,
+            TrainingClassInfo.LOCATION['outputName']: self.location,
             TrainingClassInfo.CLASS_NAME['outputName']: self.class_name,
             TrainingClassInfo.CLASS_TYPE['outputName']: self.class_type,
             TrainingClassInfo.FIRST_CLASS_INFO['outputName']: self.first_class_time,
